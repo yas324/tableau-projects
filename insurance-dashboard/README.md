@@ -49,7 +49,7 @@ This interactive **Tableau dashboard** presents weekly performance insights for 
 - **Cross-Sell Opportunities** had decent placement (65%) but poor invoicing (15.14%), indicating delayed collections or processing issues.
 - **New Policies** show both low placement and invoice rates, signaling an opportunity for business development focus.
 - **Top revenue policy** is under the **Fire** category (₹500K), followed by *Group Mediclaim* and *Mega Policies*.
-- **Abhinav Shivam** conducted the most meetings (7), and **Animesh Rawat** issued the highest invoices (20).
+- **Abhinav Shivam** conducted the most meetings (7), and **Gilbert** issued the highest invoices (63).
 - **Employee Benefits** lead in opportunity distribution, with **15 out of 49** total deals.
 
 ---
