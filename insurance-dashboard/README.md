@@ -92,7 +92,7 @@ This interactive **Tableau dashboard** presents weekly performance insights for 
 ---
 ## 📌 Tags
 
-`#TableauDashboard` `#InsuranceAnalytics` `#SalesInsights` `#OpportunityTracking` `#DataVisualization` `#KPIs` `#TopNParameter` `#FunnelRevenue` `#ProductDistribution`
+#TableauDashboard  #InsuranceAnalytics  #SalesInsights  #OpportunityTracking   #DataVisualization   #KPIs   #TopNParameter   #FunnelRevenue   #ProductDistribution
 ---
 
 ## 🌐 View Live Dashboard on Tableau Public
