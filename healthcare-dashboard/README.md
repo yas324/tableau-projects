@@ -34,7 +34,9 @@ This Tableau Healthcare Analysis Dashboard provides a comprehensive view of pati
 
 ## 🖼️ Dashboard Snapshot
 
-![Healthcare Dashboard](./Tableau_Dashboard.png)
+![Healthcare Dashboard](./Healthcare_Dashboard.JPG)
+
+*Interactive Tableau dashboard showcasing key healthcare KPIs and patient insights.*
 
 ---
 
@@ -95,7 +97,7 @@ This Tableau Healthcare Analysis Dashboard provides a comprehensive view of pati
 
 ## 🌐 View Live Dashboard on Tableau Public
 
-[![Tableau Public](https://img.shields.io/badge/View_on-Tableau_Public-blue?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/syed.yaseen1131/viz/Insurance_Branch_Dashboard/Dashboard)
+[![Tableau Public](https://img.shields.io/badge/View_on-Tableau_Public-blue?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/syed.yaseen1131/viz/Health_Care_Dashboard)
 
 
 ## ✍️ Author
