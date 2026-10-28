@@ -97,7 +97,7 @@ This Tableau HR Analytics Dashboard provides a comprehensive view of employee at
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="30"/>
-  <a href="PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE" target="_blank">
+  <a href="https://public.tableau.com/app/profile/syed.yaseen1131/viz/HRAnalytics_17931963570730/Dashboard1" target="_blank">
     🚀 Launch Live Dashboard
   </a>
 </p>
