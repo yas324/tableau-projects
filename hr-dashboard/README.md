@@ -31,7 +31,7 @@ This Tableau HR Analytics Dashboard provides a comprehensive view of employee at
 
 ## 🖼️ Dashboard Snapshot
 
-![hr-dashboard](./Tableau_Dashboard.JPG)
+![hr-dashboard](./Tableau_Dashboard.png)
 
 *Interactive Tableau dashboard showcasing key HR KPIs and employee attrition insights.*
 
